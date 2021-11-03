@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 100 100"
+   version="1.1"
+   sodipodi:docname="EXP___ManagedMigrations.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2739"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.73"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-width="3840"
+     inkscape:window-height="2089"
+     inkscape:window-x="3432"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs2716">
+    <style
+       id="style2714">.cls-1{font-size:10px;font-family:Inter-Light, Inter;font-weight:300;}.cls-2{fill:#f03d00;}</style>
+  </defs>
+  <polygon
+     points="73.74 24.36 62.93 35.3 59.41 31.71 66.7 24.3 59.41 16.89 62.93 13.31 73.74 24.36"
+     id="polygon2722" />
+  <circle
+     cx="46.38"
+     cy="24.36"
+     r="4.57"
+     id="circle2724" />
+  <circle
+     cx="56.45"
+     cy="24.36"
+     r="4.57"
+     id="circle2726" />
+  <circle
+     cx="36.25"
+     cy="24.36"
+     r="4.57"
+     id="circle2728" />
+  <polygon
+     class="cls-2"
+     points="26.26 42.06 37.07 31.13 40.59 34.71 33.3 42.12 40.59 49.53 37.07 53.11 26.26 42.06"
+     id="polygon2730" />
+  <circle
+     class="cls-2"
+     cx="53.62"
+     cy="42.06"
+     r="4.57"
+     id="circle2732" />
+  <circle
+     class="cls-2"
+     cx="43.55"
+     cy="42.06"
+     r="4.57"
+     id="circle2734" />
+  <circle
+     class="cls-2"
+     cx="63.75"
+     cy="42.06"
+     r="4.57"
+     id="circle2736" />
+</svg>

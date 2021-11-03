@@ -4,14 +4,14 @@
    data-name="Layer 1"
    viewBox="0 0 100 100"
    version="1.1"
-   sodipodi:docname="EXP___SSLVPN.svg"
+   sodipodi:docname="EXP___Containers.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview2199"
+     id="namedview452"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -29,22 +29,24 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="Layer_1" />
   <defs
-     id="defs2186">
+     id="defs439">
     <style
-       id="style2184">.cls-1{font-size:40.61px;font-family:FontAwesome5Pro-Light, &quot;Font Awesome 5 Pro&quot;;}.cls-1,.cls-4{font-weight:300;}.cls-2{fill:#f20505;}.cls-3{font-size:13.72px;fill:#fff;font-family:FontAwesome6Pro-Regular, &quot;Font Awesome 6 Pro&quot;;}.cls-4{font-size:10px;font-family:Inter-Light, Inter;}</style>
+       id="style437">.cls-1{font-size:10px;font-family:Inter-Light, Inter;font-weight:300;}.cls-2{fill:#f12800;}.cls-3{font-size:40.61px;font-family:FontAwesome5Pro-Regular, &quot;Font Awesome 5 Pro&quot;;}</style>
   </defs>
-  <text
-     class="cls-1"
-     transform="translate(24.62 47.24)"
-     id="text2188"></text>
-  <circle
+  <polygon
      class="cls-2"
-     cx="61.55"
-     cy="38.43"
-     r="11.6"
-     id="circle2190" />
+     points="40.37 26.99 40.28 36.65 49.45 39.87 49.78 30.87 40.37 26.99"
+     id="polygon443" />
+  <polygon
+     class="cls-2"
+     points="30.25 41.65 30.17 51.31 39.71 55.48 39.66 45.53 30.25 41.65"
+     id="polygon445" />
+  <polygon
+     class="cls-2"
+     points="50.44 42.02 50.36 51.68 59.52 55.48 59.85 45.9 50.44 42.02"
+     id="polygon447" />
   <text
      class="cls-3"
-     transform="translate(55.55 43.4)"
-     id="text2192"></text>
+     transform="translate(29.7 54.37)"
+     id="text449"></text>
 </svg>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 100 100"
+   version="1.1"
+   sodipodi:docname="EXP___24x7USSupport.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview297"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.73"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-width="3840"
+     inkscape:window-height="2089"
+     inkscape:window-x="3432"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs248">
+    <style
+       id="style246">.cls-1{fill:#f20505;}.cls-2{font-size:40.61px;font-family:FontAwesome5Pro-Light, &quot;Font Awesome 5 Pro&quot;;font-weight:300;}</style>
+  </defs>
+  <rect
+     class="cls-1"
+     x="34.82"
+     y="20.76"
+     width="10.98"
+     height="6.61"
+     transform="translate(28.82 -21.45) rotate(45)"
+     id="rect250" />
+  <rect
+     class="cls-1"
+     x="53.97"
+     y="39.83"
+     width="10.98"
+     height="6.61"
+     transform="translate(47.92 -29.41) rotate(45)"
+     id="rect252" />
+  <rect
+     class="cls-1"
+     x="53.97"
+     y="21.09"
+     width="10.98"
+     height="6.61"
+     transform="translate(0.17 49.19) rotate(-45)"
+     id="rect254" />
+  <rect
+     class="cls-1"
+     x="34.65"
+     y="39.91"
+     width="10.98"
+     height="6.61"
+     transform="translate(-18.8 41.04) rotate(-45)"
+     id="rect256" />
+  <text
+     class="cls-2"
+     transform="translate(29.69 48.9)"
+     id="text294"></text>
+</svg>

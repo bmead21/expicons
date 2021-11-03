@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 100 100"
+   version="1.1"
+   sodipodi:docname="EXP___Encryption.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1126"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.73"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-width="3840"
+     inkscape:window-height="2089"
+     inkscape:window-x="3432"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs1113">
+    <style
+       id="style1111">.cls-1{font-size:10px;font-family:Inter-Light, Inter;font-weight:300;}.cls-2{letter-spacing:0.02em;}.cls-3{fill:#f20505;}</style>
+  </defs>
+  <path
+     d="M75.38,36.54v1.27a.64.64,0,0,1-.63.64H25.25a.64.64,0,0,1-.63-.64V36.54a.63.63,0,0,1,.63-.63h49.5A.63.63,0,0,1,75.38,36.54Zm-38.07-7H29.7v-12a.64.64,0,0,1,.63-.64h6.34a.64.64,0,0,1,.64.64ZM29.7,44.79h7.61V56.85a.64.64,0,0,1-.64.63H30.33a.63.63,0,0,1-.63-.63ZM47.46,29.56H42.39v-12a.64.64,0,0,1,.63-.64h3.81a.64.64,0,0,1,.63.64ZM42.39,44.79h5.07V56.85a.63.63,0,0,1-.63.63H43a.63.63,0,0,1-.63-.63ZM55.08,29.56H52.54v-12a.64.64,0,0,1,.63-.64h1.27a.64.64,0,0,1,.64.64ZM52.54,44.79h2.54V56.85a.64.64,0,0,1-.64.63H53.17a.63.63,0,0,1-.63-.63ZM62.69,29.56H57.61v-12a.64.64,0,0,1,.64-.64h3.81a.64.64,0,0,1,.63.64ZM57.61,44.79h5.08V56.85a.63.63,0,0,1-.63.63H58.25a.64.64,0,0,1-.64-.63ZM70.3,29.56H65.23v-12a.64.64,0,0,1,.63-.64h3.81a.64.64,0,0,1,.63.64ZM65.23,44.79H70.3V56.85a.63.63,0,0,1-.63.63H65.86a.63.63,0,0,1-.63-.63Z"
+     id="path1115" />
+  <rect
+     class="cls-3"
+     x="24.62"
+     y="35.91"
+     width="50.76"
+     height="2.54"
+     rx="0.63"
+     id="rect1123" />
+</svg>

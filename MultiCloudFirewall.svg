@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 100 100"
+   version="1.1"
+   sodipodi:docname="EXP___MultiCloudFirewall.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1821"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.73"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-width="3840"
+     inkscape:window-height="2089"
+     inkscape:window-x="3432"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs1758">
+    <style
+       id="style1756">.cls-1{font-size:40.61px;font-family:FontAwesome6Pro-Light, &quot;Font Awesome 6 Pro&quot;;font-weight:300;}.cls-2{fill:#f20505;}.cls-3{fill:#fff;}</style>
+  </defs>
+  <text
+     class="cls-1"
+     transform="translate(21.56 45.4)"
+     id="text1798"></text>
+  <rect
+     class="cls-2"
+     x="60.26"
+     y="43.71"
+     width="13.95"
+     height="6.93"
+     id="rect1800" />
+  <path
+     class="cls-3"
+     d="M73.66,44.25V50.1H60.8V44.25H73.66m1.09-1.09h-15v8h15v-8Z"
+     id="path1802" />
+  <rect
+     class="cls-2"
+     x="45.9"
+     y="43.71"
+     width="13.95"
+     height="6.93"
+     id="rect1804" />
+  <path
+     class="cls-3"
+     d="M59.3,44.25V50.1H46.44V44.25H59.3m1.09-1.09h-15v8h15v-8Z"
+     id="path1806" />
+  <rect
+     class="cls-2"
+     x="65.72"
+     y="36.55"
+     width="13.95"
+     height="6.93"
+     id="rect1808" />
+  <path
+     class="cls-3"
+     d="M79.12,37.1v5.84H66.26V37.1H79.12M80.21,36h-15v8h15V36Z"
+     id="path1810" />
+  <rect
+     class="cls-2"
+     x="51.35"
+     y="36.55"
+     width="13.95"
+     height="6.93"
+     id="rect1812" />
+  <path
+     class="cls-3"
+     d="M64.76,37.1v5.84H51.9V37.1H64.76M65.84,36h-15v8h15V36Z"
+     id="path1814" />
+  <rect
+     class="cls-2"
+     x="58.63"
+     y="29.44"
+     width="13.95"
+     height="6.93"
+     id="rect1816" />
+  <path
+     class="cls-3"
+     d="M72,30v5.84H59.17V30H72m1.09-1.09h-15v8h15v-8Z"
+     id="path1818" />
+</svg>

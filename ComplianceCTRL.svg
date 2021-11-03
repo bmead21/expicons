@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 100 100"
+   version="1.1"
+   sodipodi:docname="EXP___ComplianceCTRL.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview48"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="18.81"
+     inkscape:cx="50.026582"
+     inkscape:cy="50"
+     inkscape:window-width="1861"
+     inkscape:window-height="1451"
+     inkscape:window-x="4453"
+     inkscape:window-y="412"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs11">
+    <style
+       id="style9">.cls-1{font-size:40.61px;font-family:FontAwesome5Pro-Light, &quot;Font Awesome 5 Pro&quot;;font-weight:300;}.cls-2{fill:#f12800;}</style>
+  </defs>
+  <text
+     class="cls-1"
+     transform="translate(34.77 49.72)"
+     id="text41"></text>
+  <path
+     class="cls-2"
+     d="M44.27,35.68l-2.94-3a.42.42,0,0,1,0-.6l1-1a.43.43,0,0,1,.61,0l1.63,1.66L48.35,29a.43.43,0,0,1,.6,0l1,1a.42.42,0,0,1,0,.6l-5.09,5.05A.4.4,0,0,1,44.27,35.68Z"
+     id="path43" />
+  <path
+     class="cls-2"
+     d="M45.63,42.15a1.9,1.9,0,1,1-1.9-1.9A1.89,1.89,0,0,1,45.63,42.15Z"
+     id="path45" />
+</svg>

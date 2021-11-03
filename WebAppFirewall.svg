@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 100 100"
+   version="1.1"
+   sodipodi:docname="EXP___WebAppFirewall.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2501"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.73"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-width="3840"
+     inkscape:window-height="2089"
+     inkscape:window-x="3432"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs2432">
+    <style
+       id="style2430">.cls-1{font-size:40.61px;font-family:FontAwesome5Pro-Light, &quot;Font Awesome 5 Pro&quot;;font-weight:300;}.cls-2{fill:#f20505;}.cls-3{fill:#fff;}</style>
+  </defs>
+  <text
+     class="cls-1"
+     transform="translate(24.48 47.24)"
+     id="text2434"></text>
+  <rect
+     class="cls-2"
+     x="65.95"
+     y="45.96"
+     width="13.95"
+     height="6.93"
+     id="rect2436" />
+  <path
+     class="cls-3"
+     d="M79.35,46.5v5.84H66.49V46.5H79.35m1.09-1.09h-15v8h15v-8Z"
+     id="path2438" />
+  <rect
+     class="cls-2"
+     x="51.58"
+     y="45.96"
+     width="13.95"
+     height="6.93"
+     id="rect2440" />
+  <path
+     class="cls-3"
+     d="M65,46.5v5.84H52.13V46.5H65m1.09-1.09H51v8h15v-8Z"
+     id="path2442" />
+  <rect
+     class="cls-2"
+     x="71.41"
+     y="38.8"
+     width="13.95"
+     height="6.93"
+     id="rect2444" />
+  <path
+     class="cls-3"
+     d="M84.81,39.34v5.85H72V39.34H84.81m1.09-1.09h-15v8h15v-8Z"
+     id="path2446" />
+  <rect
+     class="cls-2"
+     x="57.04"
+     y="38.8"
+     width="13.95"
+     height="6.93"
+     id="rect2448" />
+  <path
+     class="cls-3"
+     d="M70.45,39.34v5.85H57.59V39.34H70.45m1.08-1.09h-15v8h15v-8Z"
+     id="path2450" />
+  <rect
+     class="cls-2"
+     x="64.31"
+     y="31.68"
+     width="13.95"
+     height="6.93"
+     id="rect2452" />
+  <path
+     class="cls-3"
+     d="M77.72,32.23v5.84H64.86V32.23H77.72m1.08-1.09h-15v8h15v-8Z"
+     id="path2454" />
+</svg>

@@ -4,14 +4,14 @@
    data-name="Layer 1"
    viewBox="0 0 100 100"
    version="1.1"
-   sodipodi:docname="EXP___SSLVPN.svg"
+   sodipodi:docname="EXP___100SLA.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview2199"
+     id="namedview533"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -29,22 +29,16 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="Layer_1" />
   <defs
-     id="defs2186">
+     id="defs512">
     <style
-       id="style2184">.cls-1{font-size:40.61px;font-family:FontAwesome5Pro-Light, &quot;Font Awesome 5 Pro&quot;;}.cls-1,.cls-4{font-weight:300;}.cls-2{fill:#f20505;}.cls-3{font-size:13.72px;fill:#fff;font-family:FontAwesome6Pro-Regular, &quot;Font Awesome 6 Pro&quot;;}.cls-4{font-size:10px;font-family:Inter-Light, Inter;}</style>
+       id="style510">.cls-1{font-size:40.61px;font-family:FontAwesome5Pro-Light, &quot;Font Awesome 5 Pro&quot;;font-weight:300;}.cls-2{fill:#f20505;}</style>
   </defs>
   <text
      class="cls-1"
-     transform="translate(24.62 47.24)"
-     id="text2188"></text>
-  <circle
+     transform="translate(29.69 48.9)"
+     id="text528"></text>
+  <path
      class="cls-2"
-     cx="61.55"
-     cy="38.43"
-     r="11.6"
-     id="circle2190" />
-  <text
-     class="cls-3"
-     transform="translate(55.55 43.4)"
-     id="text2192"></text>
+     d="M48.88,36a1,1,0,0,1-.39-.77V22.56a1,1,0,0,1,.95-.95h1.11a1,1,0,0,1,1,.95V34.17l5.59,4.07a.94.94,0,0,1,.2,1.33l-.65.9a1,1,0,0,1-1.33.2Z"
+     id="path530" />
 </svg>

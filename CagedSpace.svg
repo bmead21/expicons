@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 100 100"
+   version="1.1"
+   sodipodi:docname="EXP___CagedSpace.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview912"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.73"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-width="3840"
+     inkscape:window-height="2089"
+     inkscape:window-x="3432"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs867">
+    <style
+       id="style865">.cls-1{fill:#f20505;}</style>
+  </defs>
+  <path
+     d="M74.11,17.25V47.71h.64a.64.64,0,0,1,.63.64v1.26a.64.64,0,0,1-.63.64H25.25a.64.64,0,0,1-.63-.64V48.35a.64.64,0,0,1,.63-.64h.64V17.25h-.64a.63.63,0,0,1-.63-.63V15.35a.63.63,0,0,1,.63-.63h49.5a.63.63,0,0,1,.63.63v1.27a.63.63,0,0,1-.63.63Zm-2.54,0H28.43V47.71H71.57Z"
+     id="path899" />
+  <rect
+     class="cls-1"
+     x="33.5"
+     y="22.33"
+     width="2.54"
+     height="20.3"
+     rx="0.63"
+     id="rect901" />
+  <rect
+     class="cls-1"
+     x="41.12"
+     y="22.33"
+     width="2.54"
+     height="20.3"
+     rx="0.63"
+     id="rect903" />
+  <rect
+     class="cls-1"
+     x="48.73"
+     y="22.33"
+     width="2.54"
+     height="20.3"
+     rx="0.63"
+     id="rect905" />
+  <rect
+     class="cls-1"
+     x="56.34"
+     y="22.33"
+     width="2.54"
+     height="20.3"
+     rx="0.63"
+     id="rect907" />
+  <rect
+     class="cls-1"
+     x="63.96"
+     y="22.33"
+     width="2.54"
+     height="20.3"
+     rx="0.63"
+     id="rect909" />
+</svg>

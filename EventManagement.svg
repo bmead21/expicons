@@ -4,14 +4,14 @@
    data-name="Layer 1"
    viewBox="0 0 100 100"
    version="1.1"
-   sodipodi:docname="EXP___SSLVPN.svg"
+   sodipodi:docname="EXP___EventManagement.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview2199"
+     id="namedview2626"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -29,22 +29,18 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="Layer_1" />
   <defs
-     id="defs2186">
+     id="defs2611">
     <style
-       id="style2184">.cls-1{font-size:40.61px;font-family:FontAwesome5Pro-Light, &quot;Font Awesome 5 Pro&quot;;}.cls-1,.cls-4{font-weight:300;}.cls-2{fill:#f20505;}.cls-3{font-size:13.72px;fill:#fff;font-family:FontAwesome6Pro-Regular, &quot;Font Awesome 6 Pro&quot;;}.cls-4{font-size:10px;font-family:Inter-Light, Inter;}</style>
+       id="style2609">.cls-1{font-size:42.56px;font-family:FontAwesome6Pro-Light, &quot;Font Awesome 6 Pro&quot;;}.cls-1,.cls-2{font-weight:300;}.cls-2{font-size:10px;font-family:Inter-Light, Inter;}.cls-3{letter-spacing:-0.02em;}.cls-4{letter-spacing:0em;}.cls-5{fill:#f20505;}</style>
   </defs>
   <text
      class="cls-1"
-     transform="translate(24.62 47.24)"
-     id="text2188"></text>
+     transform="translate(30.67 50.63)"
+     id="text2613"></text>
   <circle
-     class="cls-2"
-     cx="61.55"
-     cy="38.43"
-     r="11.6"
-     id="circle2190" />
-  <text
-     class="cls-3"
-     transform="translate(55.55 43.4)"
-     id="text2192"></text>
+     class="cls-5"
+     cx="39.15"
+     cy="35.48"
+     r="3.8"
+     id="circle2623" />
 </svg>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 100 100"
+   version="1.1"
+   sodipodi:docname="EXP___GeoLoadBalancing.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview805"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.73"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-width="3840"
+     inkscape:window-height="2089"
+     inkscape:window-x="3432"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs756">
+    <style
+       id="style754">.cls-1{fill:#f20505;}.cls-2{font-size:40.61px;font-family:FontAwesome5Pro-Light, &quot;Font Awesome 5 Pro&quot;;font-weight:300;}.cls-3{font-size:20.45px;font-family:FontAwesome5Pro-Solid, &quot;Font Awesome 5 Pro&quot;;}</style>
+  </defs>
+  <circle
+     class="cls-1"
+     cx="49.89"
+     cy="47.92"
+     r="5.61"
+     id="circle758" />
+  <text
+     class="cls-2"
+     transform="translate(26.78 50.41)"
+     id="text760"></text>
+  <circle
+     class="cls-1"
+     cx="49.97"
+     cy="22.05"
+     r="5.61"
+     id="circle794" />
+  <text
+     class="cls-3"
+     transform="translate(37.59 27.07) rotate(32.55)"
+     id="text796"></text>
+  <circle
+     class="cls-1"
+     cx="42.13"
+     cy="35.37"
+     r="5.61"
+     id="circle798" />
+  <text
+     class="cls-3"
+     transform="matrix(-0.02, 1, -1, -0.02, 54.78, 40.03)"
+     id="text800"></text>
+  <text
+     class="cls-3"
+     transform="matrix(0.88, -0.48, 0.48, 0.88, 40.03, 47.76)"
+     id="text802"></text>
+</svg>
